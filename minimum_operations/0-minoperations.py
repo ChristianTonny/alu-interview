@@ -34,4 +34,4 @@ def minOperations(n):
             num_h //= divisor
         divisor += 1
 
-    return operations 
+    return operations
